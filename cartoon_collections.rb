@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(veggies)
   
-  veggies.map { | v |
+  veggies.map { | v | v.capitalize + "!"
 
 end
 

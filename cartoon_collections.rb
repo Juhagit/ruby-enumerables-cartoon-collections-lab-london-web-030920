@@ -16,7 +16,7 @@ def long_planeteer_calls(calls_long)
   
 end
 
-def find_the_cheese# code an argument here
+def find_the_cheese(ziis)
  cheese_types = ["cheddar", "gouda", "camembert"]
  
  

@@ -12,7 +12,7 @@ end
 
 def long_planeteer_calls(calls_long)
   
-  
+  calls_long.select{ |num| num > 4  } 
   
 end
 

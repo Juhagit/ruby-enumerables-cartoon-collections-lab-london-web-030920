@@ -19,7 +19,9 @@ end
 def find_the_cheese(ziis)
  cheese_types = ["cheddar", "gouda", "camembert"]
  
+ counter = 0 
  
+ while counter <
  
  
  

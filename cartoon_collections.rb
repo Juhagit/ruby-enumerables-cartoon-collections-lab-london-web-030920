@@ -22,7 +22,7 @@ def find_the_cheese(ziis)
  counter = 0 
  
  while counter < ziis.length do 
-   
+   if ziis 
  
  
  

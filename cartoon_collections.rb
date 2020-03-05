@@ -22,7 +22,8 @@ def find_the_cheese(ziis)
  counter = 0 
  
  while counter < ziis.length do 
-   if ziis.include?(cheese_types[counter])
+   if 
+     ziis.include?(cheese_types[counter])
      return cheese_types[counter]
    end 
    counter += 1 

@@ -12,7 +12,7 @@ end
 
 def long_planeteer_calls(calls_long)
   
-  calls_long[5]
+  calls_long.any? { | w | w > 4 | }
   
 end
 
